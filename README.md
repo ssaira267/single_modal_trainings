@@ -37,7 +37,7 @@ To run the scripts in this repository:
 - Tensorflow-Keras
 - XGBoost
 
-Please refer to requirements.txt for a complete list of dependencies.
+Please refer to 'requirements.txt' for a complete list of dependencies.
 
 ## Contact
 For any queries related to this repository or the research, please contact:
