@@ -12,17 +12,17 @@ The VGG19 architecture successfully captured features from FMS images but encoun
 
 ## Repository Contents
 1. Data: Sample datasets used for training and testing the models are publicly available on the following website: https://mlp.ldeo.columbia.edu/logdb/scientific_ocean_drilling. The dataset used are from Leg 194, holes 1194B, 1196A and 1199A. 
-2. Scripts: Python scripts developed for data preprocessing, model training, model evaluation, and visualization of the results.
+2. Notebooks: Python scripts developed for data preprocessing, model training, model evaluation, and visualization of the results.
 3. Documentation: Additional resources and documentation that outline the methodologies used, as well as the findings and implications of the research.
 
 ## How to Use
 To run the scripts in this repository:
 1. Ensure that Python 3.8 (and above) and the necessary libraries (listed in requirements.txt) are installed.
 2. Clone the repository to your local machine.
-3. Navigate to the script directory and run the desired scripts as follows:
+3. Navigate to the notebooks directory and run the desired notebook as follows:
   
   ```bash
-  python script_name.py
+  python notebook_name.py
   ```
 
 ## Dependencies 
